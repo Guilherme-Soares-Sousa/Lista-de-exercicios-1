@@ -1,5 +1,5 @@
 # Breve descrição do projeto
-Este projeto contém exercícios referentes a primeira lista de `JAVA` da matéria de ALP (Algoritmo e Lógica de Programação). Utilizando-se de recursos "iniciais" e "simples" da linguagem para consolidação dos aprendizados.
+Este projeto contém exercícios referentes a primeira lista de `Java` da matéria de ALP (Algoritmo e Lógica de Programação). Utilizando-se de recursos "iniciais" e "simples" da linguagem para consolidação dos aprendizados.
 
 ## Questões utilizadas (também referenciadas no começo de cada código):
 1.  Faça um algoritmo que leia a idade de uma pessoa expressa em anos, meses e dias e mostre-a expressa em dias. Leve em consideração o ano com 365 dias e o mês com 30. (Ex: 3 anos, 2 meses e 15 dias = 1170 dias.) [(code)](https://github.com/Guilherme-Soares-Sousa/Lista-de-exercicios-1/blob/master/src/exercicio1.java)
